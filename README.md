@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ivan Hromenko  
 
-💻 **Software Developer | PHP, Java Spring Boot, .NET, React, Typescript | Data & CI/CD Enthusiast**  
+💻 **Software Developer | PHP,  .NET, Java Spring Boot, React, Typescript | Data & CI/CD Enthusiast**  
 
 I’m a backend developer who enjoys making things run smoothly behind the scenes — a bit of a **backend ninja** 🥷.  
 The features I build may not always be visible at first glance, but they have a real impact on functionality, scalability, and user experience.  
