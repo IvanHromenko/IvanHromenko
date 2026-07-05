@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ivan Hromenko  
 
-💻 **Software Developer | PHP,  .NET, Java Spring Boot, React, Typescript | Data & CI/CD Enthusiast**  
+💻 **Software Developer | PHP,  .NET, Java Spring Boot, Typescript | Data & CI/CD Enthusiast**  
 
 I’m a backend developer who enjoys making things run smoothly behind the scenes — a bit of a **backend ninja** 🥷.  
 The features I build may not always be visible at first glance, but they have a real impact on functionality, scalability, and user experience.  
@@ -10,18 +10,18 @@ The features I build may not always be visible at first glance, but they have a 
 ## 🚀 About Me  
 - 🌍 Based in **Espoo, Finland**, with full work rights  
 - 💡 Passionate about writing **clean, tested, and maintainable code**  
-- ⚡ Experienced in **backend development** with PHP, Java, and Spring Boot  
+- ⚡ Experienced in **backend development** with PHP, .NET and Java  
 - 🌐 Skilled in **frontend** with React, Redux, TypeScript, CSS/SASS  
-- ☁️ Hands-on with **cloud platforms** (AWS – Certified Practitioner, Azure)  
+- ☁️ Hands-on with **cloud platforms** (AWS – Certified Practitioner, Azure Functions)  
 - 🔄 Automating workflows with **CI/CD pipelines** (Jenkins, GitHub Actions, Docker)  
 - 🤝 Strong believer in teamwork, adaptability, and continuous learning  
 
 ---
 
 ## 🛠️ Tech Stack  
-**Backend:** PHP, Java, Spring Boot, .NET Core  
+**Backend:** PHP, Typescript, .NET Core, Java Spring Boot  
 **Databases:** MySQL, MariaDB, MS SQL  
-**Frontend:** JavaScript, React, Redux, TypeScript, CSS/SASS, Bootstrap  
+**Frontend:** React, Redux, Bootstrap  
 **DevOps & Cloud:** Jenkins, Docker, Bash, AWS, Azure, GitHub Actions 
 **Testing & Quality:** PHPUnit, Unit Testing, SonarQube  
 
